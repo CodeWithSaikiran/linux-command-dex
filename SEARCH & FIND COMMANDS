@@ -1,0 +1,11 @@
+Command,Description
+"find . -type f -name ""f1.txt""",Find a specific file in the current directory
+"find . -type d -name ""dir""",Find a directory by name
+find . -type f -empty,Find all empty files
+find . -perm 777,Find files with 777 permissions
+find / -user <name>,Find files owned by a specific user
+find . -mmin -60,Files modified in the last hour
+find . -size +50M,Files larger than 50MB
+"grep ""word"" file",Search for a string inside a file
+"grep -i ""word"" file",Case-insensitive search
+"grep -r ""word"" .",Recursive search for string in all files
