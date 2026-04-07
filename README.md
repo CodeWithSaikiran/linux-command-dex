@@ -1,2 +1,2 @@
 # linux-command-dex
-Linux Basic commands
+Please find the Linux commands here
