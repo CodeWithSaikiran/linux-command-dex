@@ -1,0 +1,12 @@
+Command,Description
+pwd,Print Working Directory
+cd foldername,Change directory
+cd ..,Go back one directory
+cd -,Go back to the previous working directory
+cd ~ or cd,Go to the user's home directory
+cd /,Go to the root directory
+touch file,Create a single empty file
+touch f1 f2,Create multiple files
+touch file{1..5},Create 5 files (file1 to file5)
+mkdir folder,Create a single directory
+mkdir -p a/b/c,Create nested parent directories
