@@ -1,0 +1,13 @@
+Command,Description
+ls,List file names only
+ll,List files with details (alias for ls -l)
+ll -a,Show hidden files
+ll -t,Sort by time (newest first)
+ll -ltr,"Long listing, sorted by time, in reverse (newest at bottom)"
+cat file,Read file content
+tac file,Read file content in reverse (last line first)
+rev file,Reverse the characters in each line
+head -n 10,Show first 10 lines
+tail -n 10,Show last 10 lines
+more file,View file with page percentages
+wc -l file,Count lines in a file
