@@ -1,0 +1,10 @@
+Command,Description
+whoami,Show current logged-in user
+who,Show users currently logged into the system
+useradd username,Add a new user
+passwd username,Set/Change user password
+userdel -r username,Delete user and their home directory
+groupadd groupname,Create a new group
+groups,Show groups the current user belongs to
+groupdel groupname,Delete a group
+su - username,Login as a different user
