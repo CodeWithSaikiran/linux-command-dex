@@ -1,0 +1,8 @@
+Command,Description
+hostname -I,Display system IP addresses
+ip addr,Show addresses assigned to network interfaces
+ifconfig,(Legacy) Display IP address details
+ps aux,Display all running processes
+top,Real-time system monitoring (CPU/RAM)
+df -h,Disk space usage (Human Readable)
+du -sh,Total size of a specific file/folder
