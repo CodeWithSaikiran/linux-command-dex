@@ -1,0 +1,15 @@
+Command,Description
+uname,Get Operating System name
+uname -r,Display Linux kernel version
+uname -a,Display all system information
+uptime,Show how long the system has been running
+uptime -p,"Show uptime in a ""pretty"" format"
+uptime -s,Show the date/time the system started
+lscpu,Display CPU architecture information
+cat /proc/cpuinfo,Detailed CPU information
+cat /proc/meminfo,Detailed RAM/Memory details
+free -m,Show free and used memory in MB
+free -k,Show free and used memory in KB
+lsblk -a,List all block devices (disks/partitions)
+fdisk -l,List partition tables
+fdisk -s <partition>,Display partition size in blocks
