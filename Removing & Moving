@@ -1,0 +1,8 @@
+Command,Description
+rm file,Remove a file
+rm -f file,Force remove a file (no confirmation)
+rm -rf *,DANGER: Forcefully remove all files and folders in current path
+rmdir folder,Remove an empty directory
+cp f1 f2,Copy file1 to file2
+mv f1 f2,Move/Rename file1 to file2
+mv file folder/,Move file into a specific folder
